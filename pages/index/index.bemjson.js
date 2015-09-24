@@ -18,7 +18,7 @@
                 lang: 'ru',
                 info: {
                     name: 'Сергей Половко',
-                    position: 'Разработчик<br>Яндекс.Карты',
+                    position: 'Разработчик<br>Служба разработки систем хранения и обработки данных',
                     company: {
                         country: 'Россия',
                         locality: 'Москва',
@@ -38,7 +38,7 @@
                 lang: 'en',
                 info: {
                     name: 'Sergey Polovko',
-                    position: 'Software Developer<br>Yandex.Maps',
+                    position: 'Software Developer<br>Data Storage and Processing Systems service',
                     company: {
                         country: 'Russia',
                         locality: 'Moscow',
